@@ -1,0 +1,15 @@
+{
+  "title": "L O I S",
+  "url": "https://lois.me.uk/",
+  "description": "championing independent design talent.",
+  "feed": {
+    "subtitle": "championing independent design talent.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://lois.me.uk/"
+  },
+  "author": {
+    "name": "Helen Ward",
+    "email": "helenloisward@gmail.com"
+  }
+}
