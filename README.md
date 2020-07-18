@@ -10,8 +10,6 @@ The source code for lois.me.uk - an 11ty site, forked from https://github.com/11
 npm install
 ```
 
-### Edit _data/metadata.json
-
 ### Run Eleventy
 
 ```

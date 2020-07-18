@@ -14,7 +14,6 @@ eleventyNavigation:
 
 {% set postslist = collections.posts | head(-10) %}
 {% set postslistCounter = collections.posts | length %}
-{# {% include "postslist.njk" %} #}
 
 {% for post in postslist | reverse %}
   <article class="db center mb4 o-90 glow">
