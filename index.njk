@@ -16,7 +16,7 @@ eleventyNavigation:
 {% set postslistCounter = collections.posts | length %}
 
 {% for post in postslist | reverse %}
-  <article class="db center mb4 o-90 glow">
+  <article class="db center mb5 o-90 glow">
     <h1 class="mb0 f3 f2-ns bb b--black bw2">
       <a href="{{ post.url | url }}" class="db link black">
         {{ post.data.title }}
