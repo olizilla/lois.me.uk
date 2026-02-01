@@ -3,7 +3,7 @@ title: Interview // The Bakemonger
 description: foo bar baz x
 date: 2016-03-08
 tags: interview
-mainImage: bakemonger-im7.jpg
+mainImage: bakemonger-im7.webp
 ---
 
 _‘I do not use fondant icing […] It’s kind of a rule that I don’t touch it.’_ These are the defiant words of Helen Bakunowicz - aka The Bakemonger - a cake maker so unique in style and quality it’s hard not to agree with her strident views on sugar paste. When Helen makes a cake, it’s a deeply creative process often involving weeks of research and testing. From ombre dying dried fruit to rice paper origami, the techniques used to create a Bakemonger original yield incredible results that resemble more fine art sculpture than edible treat.
@@ -12,8 +12,8 @@ But edible they necessarily are. _‘My focus has always been that [the cakes] h
 
 <div class="pair">
 
-![](bakemonger-im4.jpg)
-![](bakemonger-im6.jpg)
+![](bakemonger-im4.webp)
+![](bakemonger-im6.webp)
 
 </div>
 
@@ -33,4 +33,4 @@ You can find The Bakemonger [online](https://www.thebakemonger.com/), on [Instag
 
 
 
-![](bakemonger-im5.jpg)
+![](bakemonger-im5.webp)

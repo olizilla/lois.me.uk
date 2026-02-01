@@ -4,7 +4,7 @@ description: foo bar baz x
 date: 2019-07-26
 tags: feature
 mainImage: jamie-cushions.webp
-headImage: jonna.jpg
+headImage: jonna.webp
 ---
 
 <div class="aspect-ratio aspect-ratio--16x9 bg-black">
@@ -15,8 +15,8 @@ Jonna is one of the nicest people I’ve ever met, so working with her on a coll
 
 <div class="pair">
 
-![](Jonna_inks.jpg)
-![](Jonna_inks_mixing.jpg)
+![](Jonna_inks.webp)
+![](Jonna_inks_mixing.webp)
 
 </div>
 
@@ -24,8 +24,8 @@ It also helps that she uses THE BRIGHTEST COLOURS EVER CREATED BY MAN. I’ve st
 
 <div class="pair">
 
-![](Fabric_sample_testing_3.jpg)
-![](Jonna_studio.jpg)
+![](Fabric_sample_testing_3.webp)
+![](Jonna_studio.webp)
 
 </div>
 
@@ -33,7 +33,7 @@ Jonna views each printing session as a bit of an experiment - sometimes, fun new
 
 <div class="pair">
 
-![](Tim_Jonna_3.jpg)
-![](IMG_8063.jpg)
+![](Tim_Jonna_3.webp)
+![](IMG_8063.webp)
 
 </div>

@@ -3,8 +3,7 @@ title: KuKu Big Bag
 description: foo bar baz x
 date: 2019-07-26
 tags: feature
-mainImage: candice-hands-2.jpg
-headImage: candice.jpg
+headImage: candice.webp
 ---
 
 <div class="aspect-ratio aspect-ratio--16x9 bg-black">
@@ -15,8 +14,8 @@ Since starting to work with leather in 2011, Candice Lau - designer behind Kuku 
 
 <div class="pair">
 
-![](Bags+2.jpg)
-![](Tools.jpg)
+![](Bags+2.webp)
+![](Tools.webp)
 
 </div>
 

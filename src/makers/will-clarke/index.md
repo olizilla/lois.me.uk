@@ -4,7 +4,7 @@ description: foo bar baz x
 date: 2019-07-26
 tags: feature
 mainImage: jamie-cushions.webp
-headImage: will-clarke.jpg
+headImage: will-clarke.webp
 ---
 
 <div class="aspect-ratio aspect-ratio--16x9 bg-black">
@@ -15,8 +15,8 @@ Will is a Londoner through and through, so it’s no surprise that so many of hi
 
 <div class="pair">
 
-![](will_working_2.jpg)
-![](prints.jpg)
+![](will_working_2.webp)
+![](prints.webp)
 
 </div>
 
@@ -24,8 +24,8 @@ I was really excited to work with Will on an exclusive piece for LOIS. The trick
 
 <div class="pair">
 
-![](desk_2.jpg)
-![](envelopes.jpg)
+![](desk_2.webp)
+![](envelopes.webp)
 
 </div>
 
@@ -33,8 +33,8 @@ I’d say Will is probably one of the most patient people I know after watching 
 
 <div class="pair">
 
-![](srawing.jpg)
-![](IMG_8056.jpg)
+![](srawing.webp)
+![](IMG_8056.webp)
 
 </div>
 

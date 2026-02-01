@@ -18,9 +18,9 @@ mainImage: turpentine.png
 
 <div class="trio">
 
-![](IMG_20160322_103545.jpg)
-![](IMG_20160322_111719.jpg)
-![](IMG_20160322_103912.jpg)
+![](IMG_20160322_103545.webp)
+![](IMG_20160322_111719.webp)
+![](IMG_20160322_103912.webp)
 
 </div>
 

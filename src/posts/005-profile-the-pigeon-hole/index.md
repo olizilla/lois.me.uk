@@ -22,15 +22,15 @@ After a blindingly successful Kickstarter campaign and almost a year of searchin
 
 <div class="trio">
 
-![](IMG_20160422_103809.jpg)
-![](IMG_20160422_103904.jpg)
-![](IMG_20160422_104046.jpg)
-![](IMG_20160422_104407.jpg)
-![](IMG_20160422_104812.jpg)
-![](IMG_20160422_103828.jpg)
-![](IMG_20160422_104526.jpg)
-![](IMG_20160422_103842.jpg)
-![](IMG_20160422_103950.jpg)
+![](IMG_20160422_103809.webp)
+![](IMG_20160422_103904.webp)
+![](IMG_20160422_104046.webp)
+![](IMG_20160422_104407.webp)
+![](IMG_20160422_104812.webp)
+![](IMG_20160422_103828.webp)
+![](IMG_20160422_104526.webp)
+![](IMG_20160422_103842.webp)
+![](IMG_20160422_103950.webp)
 
 </div>
 

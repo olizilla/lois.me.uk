@@ -4,7 +4,7 @@ description: foo bar baz x
 date: 2019-07-26
 tags: feature
 mainImage: jamie-cushions.webp
-headImage: pps.jpg
+headImage: pps.webp
 ---
 
 <div class="aspect-ratio aspect-ratio--16x9 bg-black">
@@ -15,8 +15,8 @@ Only a few years old and Peckham Print Studio (PPS) has already become a staple 
 
 <div class="pair">
 
-![](PPS_sticker_2.jpg)
-![](artwork_2.jpg)
+![](PPS_sticker_2.webp)
+![](artwork_2.webp)
 
 </div>
 
@@ -24,8 +24,8 @@ The guys behind PPS are some of the friendliest I’ve ever met. Referred to var
 
 <div class="pair">
 
-![](tom_working_3.jpg)
-![](screens.jpg)
+![](tom_working_3.webp)
+![](screens.webp)
 
 </div>
 
@@ -33,8 +33,8 @@ They’re just really enthusiastic about what they do, and that’s something th
 
 <div class="pair">
 
-![](masks.jpg)
-![](paint_splotches.jpg)
+![](masks.webp)
+![](paint_splotches.webp)
 
 </div>
 

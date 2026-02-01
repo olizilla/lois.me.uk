@@ -4,7 +4,7 @@ description: foo bar baz x
 date: 2019-07-26
 tags: feature
 mainImage: jamie-cushions.webp
-headImage: prickle-press.jpg
+headImage: prickle-press.webp
 ---
 
 <div class="aspect-ratio aspect-ratio--16x9 bg-black">
@@ -15,8 +15,8 @@ Gee Gee is huge. She tips the scales at 1.5 tons, which is almost as much as you
 
 <div class="pair">
 
-![](press.jpg)
-![](stamps_in_frame_2.jpg)
+![](press.webp)
+![](stamps_in_frame_2.webp)
 
 </div>
 
@@ -24,8 +24,8 @@ Since 2010, Rachel has used Gee Gee - the letterpress - to print a wide range of
 
 <div class="pair">
 
-![](ink_mixing.jpg)
-![](pink_press.jpg)
+![](ink_mixing.webp)
+![](pink_press.webp)
 
 </div>
 
@@ -33,8 +33,8 @@ Watching Rachel operate Gee Gee was also a lot of fun. It was really quite movin
 
 <div class="pair">
 
-![](Rachel_2.jpg)
-![](exlusives_model.jpg)
+![](Rachel_2.webp)
+![](exlusives_model.webp)
 
 </div>
 

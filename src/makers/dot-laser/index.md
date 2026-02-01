@@ -4,7 +4,7 @@ description: foo bar baz x
 date: 2019-07-26
 tags: feature
 mainImage: jamie-cushions.webp
-headImage: dot-laser.jpg
+headImage: dot-laser.webp
 ---
 
 <div class="aspect-ratio aspect-ratio--16x9 bg-black">
@@ -15,8 +15,8 @@ Lucy and Lukas, the creative pair behind laser cutting and design studio Dot Las
 
 <div class="pair">
 
-![](Lucy_and_Lukas.jpg)
-![](door_cut_out.jpg)
+![](Lucy_and_Lukas.webp)
+![](door_cut_out.webp)
 
 </div>
 
@@ -25,8 +25,8 @@ Our aim was to get Dot Laser to cut out the designs created by Pen & Gravy for a
 
 <div class="pair">
 
-![](cutting_board.jpg)
-![](laser_cutter.jpg)
+![](cutting_board.webp)
+![](laser_cutter.webp)
 
 </div>
 
@@ -34,7 +34,7 @@ Luckily, the results look amazing - little pieces of geometric design that smell
 
 <div class="pair">
 
-![](perspex_2.jpg)
-![](IMG_8082.jpg)
+![](perspex_2.webp)
+![](IMG_8082.webp)
 
 </div>

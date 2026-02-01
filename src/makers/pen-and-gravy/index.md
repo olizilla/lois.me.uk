@@ -4,7 +4,7 @@ description: foo bar baz x
 date: 2019-07-26
 tags: feature
 mainImage: jamie-cushions.webp
-headImage: jamie.jpg
+headImage: jamie.webp
 ---
 
 <div class="aspect-ratio aspect-ratio--16x9 bg-black">
@@ -15,8 +15,8 @@ Jamie Palmer, doodler extraordinaire behind Pen & Gravy, is great fun to work wi
 
 <div class="pair">
 
-![](P_2BG_faces.jpg)
-![](P_2BG_cats.jpg)
+![](P_2BG_faces.webp)
+![](P_2BG_cats.webp)
 
 </div>
 
@@ -24,9 +24,9 @@ His usual method is to draw freehand onto ceramics, photographs and paper to cre
 
 <div class="trio">
 
-![](20150114_121859.jpg)
-![](20150114_122900.jpg)
-![](20150114_123638.jpg)
+![](20150114_121859.webp)
+![](20150114_122900.webp)
+![](20150114_123638.webp)
 
 </div>
 
@@ -35,7 +35,7 @@ The hand drawn nature of Jamie’s work means that each piece is unique, possibl
 
 <div class="pair">
 
-![](Jamie_cushions.jpg)
-![](IMG_7984.jpg)
+![](Jamie_cushions.webp)
+![](IMG_7984.webp)
 
 </div>

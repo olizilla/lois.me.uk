@@ -14,15 +14,15 @@ Aless and Mauro's home is an eclectic mix of unique trinkets collected on variou
 
 <div class="trio">
 
-![](P6260052.JPG)
-![](P6260073.JPG)
-![](P6260053.JPG)
-![](P6260077.JPG)
-![](P6260063.JPG)
-![](P6260071.JPG)
-![](P6260067.JPG)
-![](P6260061.JPG)
-![](P6260068.JPG)
+![](P6260052.webp)
+![](P6260073.webp)
+![](P6260053.webp)
+![](P6260077.webp)
+![](P6260063.webp)
+![](P6260071.webp)
+![](P6260067.webp)
+![](P6260061.webp)
+![](P6260068.webp)
 
 </div>
 

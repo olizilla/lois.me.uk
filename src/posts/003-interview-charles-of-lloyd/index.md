@@ -12,8 +12,8 @@ Company founder-designer Charlotte Lloyd started her creative career in fashion 
 
 <div class="pair">
 
-![](COL_Life41.JPG)
-![](COL_life30.JPG)
+![](COL_Life41.webp)
+![](COL_life30.webp)
 
 </div>
 
@@ -29,8 +29,8 @@ And it is a journey. Well into her second year as an independent maker and busin
 
 <div class="pair">
 
-![](COL_life10.JPG)
-![](cushion.jpg)
+![](COL_life10.webp)
+![](cushion.webp)
 
 </div>
 

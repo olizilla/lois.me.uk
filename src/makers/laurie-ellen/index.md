@@ -4,7 +4,7 @@ description: foo bar baz x
 date: 2019-07-26
 tags: feature
 mainImage: jamie-cushions.webp
-headImage: laurie.jpg
+headImage: laurie.webp
 ---
 
 <div class="aspect-ratio aspect-ratio--16x9 bg-black">
@@ -15,8 +15,8 @@ It’s fair to say that Laurie Yeomans is a multi-skilled individual. As well as
 
 <div class="pair">
 
-![](Laurie_scarves.jpg)
-![](Laurie_tools_2.jpg)
+![](Laurie_scarves.webp)
+![](Laurie_tools_2.webp)
 
 </div>
 
@@ -24,8 +24,8 @@ She works in a little studio in her flat, surrounded by the implements of her tr
 
 <div class="pair">
 
-![](Laurie_hands.jpg)
-![](Laurie_table_3.jpg)
+![](Laurie_hands.webp)
+![](Laurie_table_3.webp)
 
 </div>
 
@@ -34,7 +34,7 @@ Laurie was a really fun person to collaborate with because she’s always up for
 
 <div class="pair">
 
-![](Laurie_necklace.jpg)
-![](twitter_ring_model.jpg)
+![](Laurie_necklace.webp)
+![](twitter_ring_model.webp)
 
 </div>

@@ -16,7 +16,7 @@ When theyâ€™re not keeping warm on their stall at Old Spitalfields Market, youâ€
 <div class="pair">
 
 ![](house.webp)
-![](Ruth.jpg)
+![](Ruth.webp)
 
 </div>
 
@@ -24,8 +24,8 @@ I say fretsaw whisperers because everything made by i am acrylic is created usin
 
 <div class="pair">
 
-![](Brendan_feet.jpg)
-![](jewellery.jpg)
+![](Brendan_feet.webp)
+![](jewellery.webp)
 
 </div>
 
@@ -33,7 +33,7 @@ I really enjoyed collaborating with Brendan and Ruth on an exclusive coastal pri
 
 <div class="pair">
 
-![](wood_with_holes.jpg)
-![](lighthouse_n_3Al_model.jpg)
+![](wood_with_holes.webp)
+![](lighthouse_n_3Al_model.webp)
 
 </div>

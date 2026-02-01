@@ -3,8 +3,7 @@ title: Ciré
 description: foo bar baz x
 date: 2019-07-26
 tags: feature
-mainImage: jamie-cushions.webp
-headImage: cire.jpg
+headImage: cire.webp
 ---
 
 <div class="aspect-ratio aspect-ratio--16x9 bg-black">
@@ -15,8 +14,8 @@ When I first found out how Alison Vard - designer behind Ciré - made her bags a
 
 <div class="pair">
 
-![](Alison_wax_pan_2.jpg)
-![](Alison_shelf.jpg)
+![](Alison_wax_pan_2.webp)
+![](Alison_shelf.webp)
 
 </div>
 
@@ -24,8 +23,8 @@ When we went to film Alison, we didn’t realise that her studio sits within a m
 
 <div class="pair">
 
-![](Alison_cloth_pre-dye_3.jpg)
-![](Alison_paintbrush.jpg)
+![](Alison_cloth_pre-dye_3.webp)
+![](Alison_paintbrush.webp)
 
 </div>
 
@@ -33,7 +32,7 @@ I was so excited about collaborating with Ciré on a series of exclusive bags. I
 
 <div class="pair">
 
-![](Alison_working_2.jpg)
-![](yellow_bag_model_2.jpg)
+![](Alison_working_2.webp)
+![](yellow_bag_model_2.webp)
 
 </div>
