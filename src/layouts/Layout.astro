@@ -1,0 +1,28 @@
+---
+const { title, description } = Astro.props;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{ title ? `${title} // L O I S` : "L O I S" }</title>
+    <meta name="description" content={ description || "A website about Lois" }>
+    <link rel="stylesheet" href="/css/tachyons.min.css">
+  </head>
+  <body>
+    <header class="tc" style="background:#F99A1C;">
+      <a class="db relative center bg-white" href="/" style="width:92px; height:92px; bottom:-46px; border-radius:100%">
+        <img src="/img/lois.svg" alt="L O I S" />
+      </a>
+    </header>
+    <main class="ph2 lh-copy mv5 pt2 f4 avenir">
+      <slot />
+    </main>
+    <footer class="tc mt6" style="background:#F99A1C;">
+      <a class="db relative center bg-white" href="/" style="width:92px; height:92px; top:-48px; border-radius:100%">
+        <img src="/img/lois.svg" alt="L O I S" />
+      </a>
+    </footer>
+  </body>
+</html>
