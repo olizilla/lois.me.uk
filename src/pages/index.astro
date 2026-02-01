@@ -10,13 +10,12 @@ const makers = await getCollection('makers');
 const sortedMakers = makers.sort((a, b) => a.data.title.localeCompare(b.data.title))
 ---
 <Layout>
-  <h1 class="f1 tc pv5">championing independent design talent</h1>
+  <h1 class="f1 tc pt4 pb5">championing independent design talent</h1>
   <div>
-    <div class="flex flex-wrap center" style="max-width: 1100px;">
+    <div class="flex flex-wrap justify-around center pb5" style="max-width: 1100px;">
     {sortedMakers.map(maker => (
-      <article class="mb5 o-90 glow ph4 w-20 tc">
+      <article class="o-90 glow flex-none tc mh3" style="width: 160px;">
         <a href={`/makers/${maker.id}/`} class="dib link overflow-hidden ba b--black bw2 br-100" style={`width:160px;height:160px; background: url(${maker.data.headImage.src}) center center; background-size:cover`}>
-          <!-- <Image src={maker.data.headImage} alt="" class="" /> -->
         </a>
         <h1 class="mt0 f4">
           <a href={`/makers/${maker.id}/`} class="db link black">
@@ -42,7 +41,7 @@ const sortedMakers = makers.sort((a, b) => a.data.title.localeCompare(b.data.tit
       </article>
     ))}
 
-      <h1 class="mb0 f3 f2-ns bb b--black bw2">About</h1>
+      <h1 class="pt4 mb0 f3 f2-ns bb b--black bw2">About</h1>
       <p>L O I S started out in 2013 as a small, independent bricks and mortar shop in Peckham selling a range of products made exclusively in the UK by independent designer-makers. From a desire to be more actively involved in the creative process behind the products I sold and the stories behind those products, I closed the Peckham shop and relaunched in 2015 as an online shop and creative resource.</p>
       <p>L O I S online was the next step in the creative journey. Through collaborations with a limited number of London-based designers, we created a unique range of products available only through the shop. Every item was carefully thought out from concept to production, harnessing and highlighting the specific skills and creative experience of the designers involved, each of whom have their own individual style and techniques.</p>
       <p>With the closure of the online shop in 2017, this website continues to show you the processes and people behind the scenes, some of whom have moved on to other things, but all of whom were part of the burgeoning 'slow craft' and hand made scene that began in the early 2010. To this end, there are dedicated profiles for each designer I collaborated with - you can watch films of them (made by film maker Tim Marrinan) working on products, read their stories and get to know the people who make the things. There is also a blog, a place I hope provides a further insight into the lives of a selection of makers and their incredible skills.</p>
