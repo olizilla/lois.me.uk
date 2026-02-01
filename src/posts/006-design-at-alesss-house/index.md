@@ -12,9 +12,29 @@ Aless studied fashion design at Bournemouth Arts Institute, but decided to make 
 
 Aless and Mauro's home is an eclectic mix of unique trinkets collected on various holidays and visits to craft markets, as well as splashes of colour, from their pink sofa to the yellow mirror frame in the bathroom. Aless says, 'we didn't really have a specific style for our home, we just wanted it to be colourful and fun. I love having bits of neon here and there, and lots of prints and illustrations.'
 
+<div class="trio">
+
+![](P6260052.JPG)
+![](P6260073.JPG)
+![](P6260053.JPG)
+![](P6260077.JPG)
+![](P6260063.JPG)
+![](P6260071.JPG)
+![](P6260067.JPG)
+![](P6260061.JPG)
+![](P6260068.JPG)
+
+</div>
+
 Aless is currently obsessed with Smallwild, creator of tiny ceramic animal pendants, and Charlotte Mei whose smiley toast models have been knocking us sideways with cute for the past year or so. When asked how to describe her own work in three words, Aless quite rightly went for 'so flippin' cute!' You can see some examples of her work below.
 
-![cat-chillin](./cat-chillin.png)
-![fruit_pink](./fruit_pink.png)
+<div class="trio">
+
+![](fruit_pink.png)
+![](cat-chillin.png)
+![](POLAR-BEAR-ALESS-BAYLIS.png)
+
+</div>
+
 
 You can find Aless's work on [Instagram @alessbaylis](https://www.instagram.com/alessbaylis), and on [Twitter @alessbayliss](https://twitter.com/alessbaylis)

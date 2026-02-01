@@ -14,7 +14,11 @@ const { post } = Astro.props;
 const { Content } = await render(post);
 ---
 <Layout title={post.data.title} description={post.data.description}>
-  <h1 class="mb0 f3 f2-ns bb b--black bw2">{ post.data.title }</h1>
-  <Content />
-  <p><a href="/">← Home</a></p>
+  <div class="center mw7">
+    <h1 class="mb0 f3 f2-ns bb b--black bw2">{ post.data.title }</h1>
+    <Content />
+    <p class="mt5">
+      <a href="/">← Home</a>
+    </p>
+  </div>
 </Layout>

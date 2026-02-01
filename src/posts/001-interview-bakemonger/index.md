@@ -10,6 +10,13 @@ _‘I do not use fondant icing […] It’s kind of a rule that I don’t touch 
 
 But edible they necessarily are. _‘My focus has always been that [the cakes] have to taste great as well, and you have to be able to eat everything’_, Helen explains. _‘I started colouring [dehydrated fruit] naturally. The fruit looked like petals and looked beautiful as a decorative, edible thing. I experimented with those and how they could be moulded and twinned […] I’m always fiddling around with things to create different textures.’_
 
+<div class="pair">
+
+![](bakemonger-im4.jpg)
+![](bakemonger-im6.jpg)
+
+</div>
+
 Helen trained as a textile designer at Brighton University and went into print design and trend and colour forecasting after graduating in 2001. It was while working on trend mood boards that were becoming more and more dominated by foodie visuals that she realised she might be slightly obsessed. Speaking about her move into baking, Helen says, ‘It’s such a creative sector. Something made me want to push boundaries a little more.’ She soon realised that the techniques she was using were very different from anything already out there: ‘I layer up flavour the same way that I layered up yarns and colours previously [and] I think it’s really important that it’s abstract.’
 
 Being creative is obviously hugely important to Helen. Discussing her process and motivation, she says, ‘Not having patisserie training but having the creative background is quite an interesting mix. It’s nice to be the maker again; you’re basically talking about other peoples’ creativity with trend forecasting. [Now] it almost feels like I’m back at university because I’m making again. [Cake is] an actual thing that you hand over, and cake is always happy, something that people share. Sometimes the fashion industry doesn’t work like that.’
@@ -23,3 +30,7 @@ Helen’s current creative crush is another local maker from her home town of Fr
 I ask Helen what we can expect from The Bakemonger in the coming months. As well as hunting new premises for her business - currently run from her kitchen - she has been approached by Harrod’s to put on a 3 month branded pop up in their patisserie section, something she sees as a ‘great opportunity’. In the meantime, she continues to take commissions, and supplies a small number of cakes to Caro, a lifestyle shop and cafe in Bruton, Somerset, as well as taking part in the Frome Independent market on the first Sunday of every month (March - December).
 
 You can find The Bakemonger [online](https://www.thebakemonger.com/), on [Instagram](https://www.instagram.com/the_bakemonger/), and on [Twitter](https://twitter.com/thebakemonger).
+
+
+
+![](bakemonger-im5.jpg)

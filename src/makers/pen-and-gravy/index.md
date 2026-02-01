@@ -4,6 +4,7 @@ description: foo bar baz x
 date: 2019-07-26
 tags: feature
 mainImage: jamie-cushions.webp
+headImage: jamie.jpg
 ---
 
 <div class="aspect-ratio aspect-ratio--16x9 bg-black">
@@ -12,6 +13,29 @@ mainImage: jamie-cushions.webp
 
 Jamie Palmer, doodler extraordinaire behind Pen & Gravy, is great fun to work with. He’s got loads of ideas of what he’d like to work on next which made our collaboration really exciting.
 
+<div class="pair">
+
+![](P_2BG_faces.jpg)
+![](P_2BG_cats.jpg)
+
+</div>
+
 His usual method is to draw freehand onto ceramics, photographs and paper to create unique, patterned objects and pictures, but the bright colours and geometric lines he uses makes acrylic Perspex an excellent medium in which to see his designs.
 
+<div class="trio">
+
+![](20150114_121859.jpg)
+![](20150114_122900.jpg)
+![](20150114_123638.jpg)
+
+</div>
+
+
 The hand drawn nature of Jamie’s work means that each piece is unique, possibly a reason why he gets so many commissions from individuals and businesses; you can currently see Jamie’s hand drawn lampshades in Wahaca on Atlantic Road. They look ace.
+
+<div class="pair">
+
+![](Jamie_cushions.jpg)
+![](IMG_7984.jpg)
+
+</div>

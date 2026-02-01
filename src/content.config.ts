@@ -16,13 +16,14 @@ const posts = defineCollection({
 });
 
 const makers = defineCollection({
-  loader: glob({ pattern: "**/*.md", base: "./src/makers" }),
+  loader: glob({ pattern: "**/index.(mdx|md)", base: "./src/makers/" }),
   schema: ({image}) => z.object({
     title: z.string(),
     description: z.string().optional(),
     date: z.date(),
     tags: z.string().optional(),
-    mainImage: image(),
+    // mainImage: image(),
+    headImage: image(),
     // layout is preserved in frontmatter but ignored by collections API logic
     layout: z.string().optional(),
   }),

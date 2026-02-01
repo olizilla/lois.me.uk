@@ -6,23 +6,20 @@ const { title, description } = Astro.props;
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{ title || "L O I S" }</title>
+    <title>{ title ? `${title} // L O I S` : "L O I S" }</title>
     <meta name="description" content={ description || "A website about Lois" }>
     <link rel="stylesheet" href="/css/tachyons.min.css">
-    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Lois">
   </head>
   <body>
-    <header class="tc" style="background:#F2B7B3;">
+    <header class="tc" style="background:#F99A1C;">
       <a class="db relative center bg-white" href="/" style="width:92px; height:92px; bottom:-46px; border-radius:100%">
         <img src="/img/lois.svg" alt="L O I S" />
       </a>
     </header>
-    <main>
-      <div class="center mw7 ph2 lh-copy mv5 pt2 f4 avenir">
-        <slot />
-      </div>
+    <main class="ph2 lh-copy mv5 pt2 f4 avenir">
+      <slot />
     </main>
-    <footer class="tc mt6" style="background:#F2B7B3;">
+    <footer class="tc mt6" style="background:#F99A1C;">
       <a class="db relative center bg-white" href="/" style="width:92px; height:92px; top:-48px; border-radius:100%">
         <img src="/img/lois.svg" alt="L O I S" />
       </a>

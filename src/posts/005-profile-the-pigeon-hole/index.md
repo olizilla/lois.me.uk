@@ -20,6 +20,20 @@ mainImage: pigeon-hole.jpeg
 
 After a blindingly successful Kickstarter campaign and almost a year of searching for the perfect location, The Pigeon Hole opened in June 2014. It's since become a local favourite, serving a range of locally produced food and drink - think Volcano Coffee from West Norwood, pastries from Christopher's in Herne Hill, and sumptuous cakes from Smash Bang Dollop in Crystal Palace - as well as hosting film nights, jewellery workshops, life drawing classes, and guest chef supper clubs.
 
+<div class="trio">
+
+![](IMG_20160422_103809.jpg)
+![](IMG_20160422_103904.jpg)
+![](IMG_20160422_104046.jpg)
+![](IMG_20160422_104407.jpg)
+![](IMG_20160422_104812.jpg)
+![](IMG_20160422_103828.jpg)
+![](IMG_20160422_104526.jpg)
+![](IMG_20160422_103842.jpg)
+![](IMG_20160422_103950.jpg)
+
+</div>
+
 **Why go there?:** Aside from the delicious food, The Pigeon Hole has an incredibly relaxed atmosphere that makes any visit a pleasure. The decor is simple but memorable - exposed ply wood edging, second hand lamp shades, and a range of mid-century furniture, all of which is for sale. As Holly explains, 'the design of the cafe is and has always been a very important part of the its atmosphere and we try and subtly change the design of the space with the seasons, creating softer furnishings and cosier table placements in the colder months and cleaner lines and brighter colours in the warmer months.'
 
 The cafe also supports local artists and makers with a rotating exhibition on the walls and hand crafted products to buy. With the newly pedestrianised area outside the cafe, The Pigeon Hole will be the place to relax this summer.
