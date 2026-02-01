@@ -10,8 +10,6 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/mdx": "^4.3.13",
-    "astro": "^5.17.1",
-    "cheerio": "^1.2.0"
+    "astro": "^5.17.1"
   }
 }
