@@ -3,7 +3,7 @@ import Layout from './Layout.astro';
 import { Image } from 'astro:assets';
 const { frontmatter } = Astro.props;
 ---
-<Layout title={frontmatter.title} description={frontmatter.description}>
+<Layout title={frontmatter.title} description={frontmatter.description} metaImg={frontmatter.mainImage}>
   <div class="center mw7">
     <h1 class="mb0 f3 f2-ns bb b--black bw2">{ frontmatter.title }</h1>
     <Image src={frontmatter.mainImage} alt="" />

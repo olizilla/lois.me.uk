@@ -1,14 +1,31 @@
 ---
-const { title, description } = Astro.props;
+const { title, description, metaImg } = Astro.props;
+const fullTitle = title ? `${title} // L O I S` : "L O I S"
+const desc = "Championing independent design talent"
+const pageUrl = Astro.url
+const rootUrl = Astro.site
+const imgUrl = new URL('/lois.png', pageUrl.origin)
 ---
 <!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{ title ? `${title} // L O I S` : "L O I S" }</title>
-    <meta name="description" content={ description || "A website about Lois" }>
+    <title>{ fullTitle }</title>
+    <meta name="description" content={desc}>
     <link rel="stylesheet" href="/css/tachyons.min.css">
+		<meta name="title" content={fullTitle} />
+		<meta name="description" content={desc} />
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content={pageUrl} />
+		<meta property="og:title" content={fullTitle} />
+		<meta property="og:description" content={desc} />
+		<meta property="og:image" content={imgUrl} />
+		<meta property="twitter:card" content="summary_large_image" />
+		<meta property="twitter:url" content={pageUrl} />
+		<meta property="twitter:title" content={fullTitle} />
+		<meta property="twitter:description" content={desc} />
+		<meta property="twitter:image" content={imgUrl} />
   </head>
   <body>
     <header class="tc" style="background:#F99A1C;">
